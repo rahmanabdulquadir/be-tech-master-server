@@ -1,34 +1,42 @@
 [
   {
     "id": "01",
-    "name": "JavaScript"
+    "name": "JavaScript",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKuLgsel-1tFC1myiPqhiwVm883cpYdiEgg&usqp=CAU"
   },
   {
     "id": "02",
-    "name": "Python"
+    "name": "Python",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6doKkOIHPJ_v22m5Z7TPuBIBV12nP8JPAhw&usqp=CAU"
   },
   {
     "id": "03",
-    "name": "Rust"
+    "name": "Rust",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYJXHGWJZGWKH3AuH0vLpXfvg0XETwMtLKQ&usqp=CAU"
   },
   {
     "id": "04",
-    "name": "C++"
+    "name": "C++",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpsOSm9qbPEmbUn1vY-x9IYB-uyay0G0dMw&usqp=CAU"
   },
   {
     "id": "05",
-    "name": "C sharp"
+    "name": "C sharp",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytYhnOSpuN4O9PAJGl_AugpDPh8fdKim6Lw&usqp=CAU"
   },
   {
     "id": "06",
-    "name": "Java"
+    "name": "Java",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3S9FqOWEjqGZPQ98L55jzxu9OXbJqwXx_Gw&usqp=CAU"
   },
   {
     "id": "07",
-    "name": "Go Lang"
+    "name": "Go Lang",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPW7p7CsrzNSVasAiLH8w3yKxuXMGTKv-uCg&usqp=CAU"
   },
   {
     "id": "08",
-    "name": "Swift"
+    "name": "Swift",
+    "img": ""
   }
 ]

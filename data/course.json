@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01",
+    "name": "JavaScript",
+    "price": "280$"
+  },
+  {
+    "id": "02",
+    "name": "Python",
+    "price": "380$"
+  },
+  {
+    "id": "03",
+    "name": "Rust",
+    "price": "320$"
+  },
+  {
+    "id": "04",
+    "name": "C++",
+    "price": "210$"
+  },
+  {
+    "id": "05",
+    "name": "C sharp",
+    "price": "230$"
+  },
+  {
+    "id": "06",
+    "name": "Java",
+    "price": "250$"
+  },
+  {
+    "id": "07",
+    "name": "Go Lang",
+    "price": "220$"
+  },
+  {
+    "id": "08",
+    "name": "Swift",
+    "price": "350$"
+  }
+]
